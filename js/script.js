@@ -39,9 +39,9 @@ const copyToClipboard = str => {
 function showCopiedText() {
 
         let message = document.createElement("h1");
-        message.innerHTML = 'COPIED';
+        message.innerHTML = 'copied';
         message.className = 'message';
-        document.body.appendChild(message);
+        event.target.appendChild(message);
         fadeOutEffect(message);
 }
 
