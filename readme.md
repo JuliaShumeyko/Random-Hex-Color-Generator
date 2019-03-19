@@ -21,4 +21,4 @@ https://juliashumeyko.github.io/Random-Hex-Color-Generator/
 
 # Preview
 
-![](preview.png)
+![](Preview.png)
