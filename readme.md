@@ -1,5 +1,5 @@
 # Random Hex Color Generator
-Just a simple Hex Color Generator to practise DOM
+A Hex Color Generator to practice DOM
 
 # Demo
 
